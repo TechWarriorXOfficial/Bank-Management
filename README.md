@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project is a simple Bank Management System built in C++ for beginners. It simulates basic banking operations such as creating an account, depositing money, withdrawing money, and checking the balance. The system is designed to help newcomers to C++ understand core programming concepts like classes, objects, functions, and control structures.
+This project is a simple Bank Management System built in C++. It simulates basic banking operations such as creating an account, depositing money, withdrawing money, and checking the balance. The system is designed to help newcomers to C++ understand core programming concepts like classes, objects, functions, and control structures.
 
 ## **Features**
 
